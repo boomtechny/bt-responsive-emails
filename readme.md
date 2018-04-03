@@ -4,7 +4,7 @@ Collection of Emails Designed and/or Developed
 by 
 Kelly Martinez
 
-These emails have been made to be responsive and tested with GetResponse and Litmus. They have been served by Email Service Provider MailChimp. 
+These emails have been made to be responsive and tested with GetResponse and Litmus. They have been served by Email Service Provider, MailChimp. Campaign Monitor CSS Inliner used to inline CSS if required.  
 I try to keep the workflow modular to assist in developing emails with maintainability and timeliness in mind. 
 
 
@@ -20,3 +20,5 @@ I try to keep the workflow modular to assist in developing emails with maintaina
 ### Equinix Clothing Marketing 
 
 [Equinix Marketing New Arrivals Campaign](https://s3.amazonaws.com/boomtechny/email/otheremails/newarrival/index.html)
+
+
