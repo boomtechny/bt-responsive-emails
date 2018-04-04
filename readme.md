@@ -21,4 +21,6 @@ I try to keep the workflow modular to assist in developing emails with maintaina
 
 [Equinix Marketing New Arrivals Campaign](https://s3.amazonaws.com/boomtechny/email/otheremails/newarrival/index.html)
 
+### She's in the Glow Marketing
 
+[She's in the Glow New Sales Campaign](https://s3.amazonaws.com/boomtechny/email/otheremails/sale/index.html)
